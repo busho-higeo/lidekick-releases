@@ -10,7 +10,7 @@
 ![LideKick's HUDs on a Windows desktop: status panels across the top, a chat log on the left](assets/hud-on-desktop.png)
 
 > [!NOTE]
-> **The app is currently available in Japanese only.** An English UI is in development, but not released yet. The website is in Japanese as well. If you don't read Japanese, you may want to wait — I'd rather say so up front than have you download something you can't use.
+> **English is available from v1.4.2.** The app follows your system language on first launch, and you can switch between English and Japanese in the app settings at any time. The website is in English too.
 
 ## Features
 
