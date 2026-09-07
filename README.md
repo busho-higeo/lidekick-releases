@@ -22,7 +22,7 @@
 
 ## Download
 
-**Free while in beta.** If you like it, you can [support me on Ko-fi](https://ko-fi.com/N3H822E5DU).
+**Free.** If you like it, you can [support me on Ko-fi](https://ko-fi.com/N3H822E5DU).
 
 **[Download from the website](https://www.lidekick.app/)** — this is the recommended way, and always has the latest version.
 
