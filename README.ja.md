@@ -7,7 +7,7 @@
 > [!IMPORTANT]
 > **LideKick は配信画面に映すオーバーレイではありません。** 配信者本人が、alt-tab したりサブモニタに目をやったりせずに「今」を把握するためのツールです。
 
-![Windows のデスクトップに表示された LideKick の HUD。上部にステータスパネル、左にチャットログ](assets/hud-on-desktop.png)
+![Windows のデスクトップに表示された LideKick の HUD。左上にステータスパネル・チャットログ・アラートがまとまっている](assets/hud-on-desktop.webp)
 
 ## 機能
 
