@@ -7,7 +7,7 @@
 > [!IMPORTANT]
 > **LideKick is not a stream overlay.** It is for you, the streamer, so you don't have to alt-tab or keep glancing at a second monitor to see what's happening in your chat.
 
-![LideKick's HUDs on a Windows desktop: status panels across the top, a chat log on the left](assets/hud-on-desktop.png)
+![LideKick's HUDs on a Windows desktop: a status panel, a chat log and an alert, grouped in the top-left corner](assets/hud-on-desktop.webp)
 
 > [!NOTE]
 > **English is available from v1.4.2.** The app follows your system language on first launch, and you can switch between English and Japanese in the app settings at any time. The website is in English too.
