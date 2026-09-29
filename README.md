@@ -1,13 +1,13 @@
 **English** | [日本語](README.ja.md)
 
-# LideKick
+# Lidekick
 
-**Your live streaming sidekick.** LideKick shows your Twitch viewer count, followers, chat, and alerts as a HUD on your own screen — over your game, your browser, or whatever else you have open. Especially handy on a single-monitor setup.
+**Your live streaming sidekick.** Lidekick shows your Twitch viewer count, followers, chat, and alerts as a HUD on your own screen — over your game, your browser, or whatever else you have open. Especially handy on a single-monitor setup.
 
 > [!IMPORTANT]
-> **LideKick is not a stream overlay.** It is for you, the streamer, so you don't have to alt-tab or keep glancing at a second monitor to see what's happening in your chat.
+> **Lidekick is not a stream overlay.** It is for you, the streamer, so you don't have to alt-tab or keep glancing at a second monitor to see what's happening in your chat.
 
-![LideKick's HUDs on a Windows desktop: a status panel, a chat log and an alert, grouped in the top-left corner](assets/hud-on-desktop.webp)
+![Lidekick's HUDs on a Windows desktop: a status panel, a chat log and an alert, grouped in the top-left corner](assets/hud-on-desktop.webp)
 
 > [!NOTE]
 > **English is available from v1.4.2.** The app follows your system language on first launch, and you can switch between English and Japanese in the app settings at any time. The website is in English too.
@@ -36,7 +36,7 @@ Builds are also attached to the [Releases](../../releases) here, starting from v
 
 ## Installation notes
 
-LideKick is **not code-signed**, so your OS will warn you the first time you run it.
+Lidekick is **not code-signed**, so your OS will warn you the first time you run it.
 
 - **Windows** — SmartScreen shows "Windows protected your PC". Click *More info* → *Run anyway*.
 - **macOS** — Gatekeeper says the developer cannot be verified.
@@ -53,11 +53,11 @@ LideKick is **not code-signed**, so your OS will warn you the first time you run
 | **Windows** | Downloads and installs from inside the app |
 | **macOS** | Opens the download page in your browser |
 
-In-app updates on macOS require code signing. Without it the install step fails *after* the download has already finished, so LideKick sends you to the download page from the start instead.
+In-app updates on macOS require code signing. Without it the install step fails *after* the download has already finished, so Lidekick sends you to the download page from the start instead.
 
 ## Feedback
 
-Issues are disabled on this repository. LideKick is a solo side project, and an open issue tracker isn't something I can keep up with.
+Issues are disabled on this repository. Lidekick is a solo side project, and an open issue tracker isn't something I can keep up with.
 
 **Please use the in-app feedback form instead** — *フィードバック* (Feedback) in the sidebar. It reaches me directly, and bug reports are genuinely appreciated.
 
@@ -67,4 +67,4 @@ Issues are disabled on this repository. LideKick is a solo side project, and an 
 
 ---
 
-© Busho Higeo. LideKick is closed-source — this repository hosts releases and documentation only.
+© Busho Higeo. Lidekick is closed-source — this repository hosts releases and documentation only.
