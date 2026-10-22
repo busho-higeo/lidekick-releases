@@ -7,7 +7,7 @@
 > [!IMPORTANT]
 > **Lidekick is not a stream overlay.** It is for you, the streamer, so you don't have to alt-tab or keep glancing at a second monitor to see what's happening in your chat.
 
-![Lidekick's HUDs on a Windows desktop: a status panel, a chat log and an alert, grouped in the top-left corner](assets/hud-on-desktop.webp)
+![Lidekick's HUDs over a game: a status panel, an alert and a chat log, grouped in the top-left corner](assets/hud-over-game.webp)
 
 > [!NOTE]
 > **English is available from v1.4.2.** The app follows your system language on first launch, and you can switch between English and Japanese in the app settings at any time. The website is in English too.
@@ -19,6 +19,8 @@
 - **Alerts** — follows, subscriptions, gift subs, bits, raids, and whispers
 - **Dashboard** — a separate window with widgets: viewer and follower counts, uptime, chat, alerts, an OBS audio level meter, and clocks
 - **OBS integration** — connects over OBS WebSocket
+
+![The dashboard window split into three, each part with a different background image behind frosted-glass widgets](assets/dashboard.webp)
 
 ## Download
 
